@@ -1,4 +1,9 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+# CRUD COM LARAVEL 7
+
+![pagina main ](https://github.com/marcelinoit/crud_laravel_7/blob/master/crudlaravel7-1.png)
+
+
+![pagina main ](https://github.com/marcelinoit/crud_laravel_7/blob/master/crudlaravel7-2.png)
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
